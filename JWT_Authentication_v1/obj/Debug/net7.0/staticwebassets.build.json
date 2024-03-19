@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9azIgLC5x9H5P7ZkQTIi7Mmdji8B7mDvXV2TL0Em6bk=",
+  "Source": "JWT_Authentication_v1",
+  "BasePath": "_content/JWT_Authentication_v1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
