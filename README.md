@@ -1,1 +1,2 @@
 # JWT_Authentication_v1
+JWT Authentication is a popular method to provide authentication while exchanging data between two parties. It is a token-based stateless authentication mechanism. JWT is mostly used for API authentication and server-to-server authentication. Please refer <a href = "https://medium.com/@meghnav274/simple-jwt-authentication-using-asp-net-core-api-5d04b496d27b"> Simple JWT Authentication using ASP.NET Core Web API </a> for step by step tutorial of the implementation.
